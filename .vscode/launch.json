@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Db",
+            "request": "launch",
+            "mainClass": "Db",
+            "projectName": "sabb_f66082d6"
+        },
+        {
+            "type": "java",
+            "name": "ConferenceManagementSystem",
+            "request": "launch",
+            "mainClass": "ConferenceManagementSystem",
+            "projectName": "sabb_f66082d6"
+        },
+        {
+            "type": "java",
+            "name": "SupermarketSaleSystemGUI",
+            "request": "launch",
+            "mainClass": "SupermarketSaleSystemGUI",
+            "projectName": "sabb_f66082d6"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Sa",
+            "request": "launch",
+            "mainClass": "Sa",
+            "projectName": "sabb_f66082d6"
+        }
+    ]
+}
